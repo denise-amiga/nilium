@@ -1,0 +1,39 @@
+[submodule "lugi.mod"]
+	path = lugi.mod
+	url = https://github.com/nilium/lugi.mod.git
+[submodule "cower.bmxlexer"]
+	path = cower.bmxlexer
+	url = https://github.com/nilium/cower.bmxlexer.git
+[submodule "nuitoolkit"]
+	path = nuitoolkit
+	url = https://github.com/nilium/nuitoolkit.git
+[submodule "nuit.gfx"]
+	path = nuit.gfx
+	url = https://github.com/nilium/nuit.gfx.git
+[submodule "cower.bufferedglmax2d"]
+	path = cower.bufferedglmax2d
+	url = https://github.com/nilium/cower.bufferedglmax2d.git
+[submodule "cower.renderbuffer"]
+	path = cower.renderbuffer
+	url = https://github.com/nilium/cower.renderbuffer.git
+[submodule "cower.jonk"]
+	path = cower.jonk
+	url = https://github.com/nilium/cower.jonk.git
+[submodule "cower.charset"]
+	path = cower.charset
+	url = https://github.com/nilium/cower.charset.git
+[submodule "cower.numerical"]
+	path = cower.numerical
+	url = https://github.com/nilium/cower.numerical.git
+[submodule "bmax-misc"]
+	path = bmax-misc
+	url = https://github.com/nilium/bmax-misc.git
+[submodule "pub.cocoa"]
+	path = pub.cocoa
+	url = https://github.com/nilium/pub.cocoa.git
+[submodule "pub.objectivec"]
+	path = pub.objectivec
+	url = https://github.com/nilium/pub.objectivec.git
+[submodule "bbdocugen"]
+	path = bbdocugen
+	url = https://github.com/nilium/bbdocugen.git
